@@ -1,0 +1,9 @@
+2023-08-06 03:24:50.434846 - Initialized conversion of CBT324
+2023-08-06 03:24:50.481298 - Received CBT.V505.FILE324.PDS from FILE324.XMI 
+2023-08-06 03:24:50.484535 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE324.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:24:50.485559 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE324.PDS, moved to PDS/$$NOTE1
+2023-08-06 03:24:50.486485 - Found $RECEIVE.jcl (text/plain) in CBT.V505.FILE324.PDS, moved to PDS/$RECEIVE
+2023-08-06 03:24:50.488574 - De-xmi-ed @DOC to CBT324/docs/@DOC.doc
+2023-08-06 03:24:50.489639 - Found @FILE324.txt (text/plain) in CBT.V505.FILE324.PDS, moved to PDS/@FILE324
+2023-08-06 03:24:50.489647 - Found ISPLLIB.x-mp4a-latm containing audio/x-mp4a-latm, moved to PDS/ISPLLIB
+2023-08-06 03:24:50.490682 - Found ISPPLIB.x-mp4a-latm containing audio/x-mp4a-latm, moved to PDS/ISPPLIB
