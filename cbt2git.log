@@ -1,8 +1,8 @@
-2025-04-13 18:41:58.243806 - Received CBT.V508.FILE324.PDS from FILE324.XMI 
-2025-04-13 18:41:58.244873 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/$$$#DATE
-2025-04-13 18:41:58.245065 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/$$NOTE1
-2025-04-13 18:41:58.245269 - Found $RECEIVE.jcl (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/$RECEIVE
-2025-04-13 18:41:58.245575 - Found @DOC.doc (application/msword) in CBT.V508.FILE324.PDS, moved to docs/@DOC.doc
-2025-04-13 18:41:58.245755 - Found @FILE324.txt (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/@FILE324
-2025-04-13 18:41:58.245938 - Found ISPLLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE324.PDS, moved to PDS/ISPLLIB
-2025-04-13 18:41:58.246128 - Found ISPPLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE324.PDS, moved to PDS/ISPPLIB
+2025-04-15 01:32:02.731381 - Received CBT.V508.FILE324.PDS from FILE324.XMI 
+2025-04-15 01:32:02.732605 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/$$$#DATE
+2025-04-15 01:32:02.732928 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/$$NOTE1
+2025-04-15 01:32:02.733112 - Found $RECEIVE.jcl (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/$RECEIVE
+2025-04-15 01:32:02.733717 - Found @DOC.doc (application/msword) in CBT.V508.FILE324.PDS, moved to docs/@DOC.doc
+2025-04-15 01:32:02.734030 - Found @FILE324.txt (text/plain) in CBT.V508.FILE324.PDS, moved to PDS/@FILE324
+2025-04-15 01:32:02.734760 - Found ISPLLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE324.PDS, moved to PDS/ISPLLIB
+2025-04-15 01:32:02.735413 - Found ISPPLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE324.PDS, moved to PDS/ISPPLIB
